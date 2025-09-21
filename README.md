@@ -53,9 +53,7 @@ Alguns dos projetos que refletem meu aprendizado e evolução:
 -   **[Eletronic.Store](https://github.com/ErickRochaNascimento/Eletronic.Store)**
     -- Protótipo de loja virtual.\
 -   **[ListaAtividade](https://github.com/ErickRochaNascimento/ListaAtividade)**
-    -- Soluções de exercícios de C (IFSC e PUCRS).\
--   **[ProgramacaoEstruturadaC](https://github.com/ErickRochaNascimento/ProgramacaoEstruturadaC)**
-    -- Programação estruturada em C.
+    -- Soluções de exercícios de C (IFSC e PUCRS).
 
 *(Veja todos os repositórios no [meu
 perfil](https://github.com/ErickRochaNascimento))*
