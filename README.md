@@ -13,7 +13,7 @@ Desenvolvimento de Sistemas**, apaixonado por **desenvolvimento web**,
         (2025--2028)\
     -   Cursos profissionalizantes: **Front-End HTML CSS JAVASCRIPT ANGULAR (SENAI CIMATEC)** e
         **Back-End com JavaScript NODE.JS (IFBA)**\
-    -   Técnico em **Redes de Computadores (SENAI Bahia)**\
+-   Técnico em **Redes de Computadores (SENAI Bahia)**\
 -   💼 Experiência como **Técnico de TI** na **PeS Locações e
     Consultoria** (jun/2024 -- ATUALMENTE)\
 -   🌐 Localização: **Salvador, Bahia -- Brasil**\
