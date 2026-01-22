@@ -19,7 +19,9 @@ Sou **desenvolvedor em formação** com foco em **Análise e Desenvolvimento de 
 
 ## 📚 Formação Complementar
 
--  **Front-End HTML CSS JAVASCRIPT ANGULAR (SENAI CIMATEC - FORD)** 
+-  **Front-End HTML CSS JAVASCRIPT ANGULAR (SENAI CIMATEC - FORD)**
+
+------------------------------------------------------------------------
 
 ## 🛠️ Competências Técnicas
 
