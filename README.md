@@ -8,11 +8,11 @@ Sou **desenvolvedor em formação** com foco em **Análise e Desenvolvimento de 
 
 -   🎓 **Formação em andamento**
     -   CST em **Análise e Desenvolvimento de Sistemas** -- IFBA
-        (2025--2028)\
-    -   Cursos profissionalizantes: **Back-End com JavaScript NODE.JS (IFBA)** e  **Back-End com C# (SENAI CIMATEC - FORD)**\
--   🛠️ Técnico em **Redes de Computadores (SENAI Bahia)**\
--   🌐 Localização: **Salvador, Bahia -- Brasil**\
--   ✉️ Contato: <erickrochaluciano@gmail.com>\
+        (2025--2028)
+    -   Cursos profissionalizantes: **Back-End com JavaScript NODE.JS (IFBA)** e  **Back-End com C# (SENAI CIMATEC - FORD)**
+-   🛠️ Técnico em **Redes de Computadores (SENAI Bahia)**
+-   🌐 Localização: **Salvador, Bahia -- Brasil**
+-   ✉️ Contato: <erickrochaluciano@gmail.com>
 -   🔗 [LinkedIn](https://www.linkedin.com/in/erickrochanascimento)
 
 ------------------------------------------------------------------------
@@ -25,8 +25,8 @@ Sou **desenvolvedor em formação** com foco em **Análise e Desenvolvimento de 
 
 ## 🛠️ Competências Técnicas
 
--   **Linguagens e Frameworks:** HTML, CSS, JavaScript, Node.JS, Angular, TypeScript\
--   **Infraestrutura:** Redes de Computadores, Suporte Técnico\
+-   **Linguagens e Frameworks:** HTML, CSS, JavaScript, Node.JS, Angular, TypeScript
+-   **Infraestrutura:** Redes de Computadores, Suporte Técnico
 -   **Ferramentas e Práticas:** Git/GitHub, Packet Tracer,
     Versionamento, Metodologias Ageis (SCRUM)
 
@@ -34,10 +34,10 @@ Sou **desenvolvedor em formação** com foco em **Análise e Desenvolvimento de 
 
 ## 🏆 Certificados
 
--   Introduction to Cybersecurity\
--   Networking Basics\
--   Computer Hardware Basics\
--   Introduction to Packet Tracer\
+-   Introduction to Cybersecurity
+-   Networking Basics
+-   Computer Hardware Basics
+-   Introduction to Packet Tracer
 -   Lógica de Programação com JavaScript
 
 ------------------------------------------------------------------------
@@ -64,19 +64,18 @@ Pesquisa acadêmica e técnica desenvolvida no IFBA sobre os riscos das mídias 
 -   **[ListaAtividade](https://github.com/ErickRochaNascimento/ListaAtividade)**
     -- Soluções de exercícios de C (IFSC e PUCRS).
 
-*(Veja todos os repositórios no [meu
-perfil](https://github.com/ErickRochaNascimento))*
+*(Veja todos os repositórios no [meu perfil](https://github.com/ErickRochaNascimento))*
 
 ------------------------------------------------------------------------
 
 ## 💡 Objetivos
 
--   Consolidar carreira como **Desenvolvedor Full-Stack**.\
+-   Consolidar carreira como **Desenvolvedor Full-Stack**.
 -   Aperfeiçoar conhecimentos em **JavaScript**, **Angular** e **boas práticas de arquitetura de software**.
 
 ------------------------------------------------------------------------
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ErickRochaNascimento-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickrochanascimento)\
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ErickRochaNascimento-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickrochanascimento)
 [![Email](https://img.shields.io/badge/Email-erickrochaluciano%40gmail.com-red?logo=gmail&logoColor=white)](mailto:erickrochaluciano@gmail.com)
