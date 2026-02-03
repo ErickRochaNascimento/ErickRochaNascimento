@@ -59,10 +59,8 @@ Pesquisa acadêmica e técnica desenvolvida no IFBA sobre os riscos das mídias 
 ### 📂 Outros Repositórios
 - **[Portfolio](https://github.com/ErickRochaNascimento/Portfolio )** — Site pessoal para apresentação de projetos.
 - **[LogicaComJavaScript](https://github.com/ErickRochaNascimento/LogicaComJavaScript )** — Exercícios e desafios de lógica de programação.
--   **[Eletronic.Store](https://github.com/ErickRochaNascimento/Eletronic.Store)**
-    -- Protótipo de loja virtual.\
--   **[ListaAtividade](https://github.com/ErickRochaNascimento/ListaAtividade)**
-    -- Soluções de exercícios de C (IFSC e PUCRS).
+-   **[Eletronic.Store](https://github.com/ErickRochaNascimento/Eletronic.Store)**  -- Protótipo de loja virtual.
+-   **[ListaAtividade](https://github.com/ErickRochaNascimento/ListaAtividade)**   -- Soluções de exercícios de C (IFSC e PUCRS).
 
 *(Veja todos os repositórios no [meu perfil](https://github.com/ErickRochaNascimento))*
 
