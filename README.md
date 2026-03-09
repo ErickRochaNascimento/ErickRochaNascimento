@@ -46,7 +46,7 @@ Sou **desenvolvedor em formação** com foco em **Análise e Desenvolvimento de 
 
 Aqui estão alguns dos meus projetos mais recentes que refletem minha evolução técnica:
 
-### 💡 [LUMINA Tech](https://github.com/ErickRochaNascimento/LUMINATech )
+### 💡 [LUMINA Tech](https://github.com/ErickRochaNascimento/LUMINA_Tech)
 Plataforma moderna de e-commerce de eletrônicos desenvolvida com **Angular 19**.
 - **Destaques:** Integração com API DummyJSON, Dashboard administrativo com gráficos (Chart.js), autenticação via LocalStorage e design totalmente responsivo.
 - **Tecnologias:** Angular, TypeScript, RxJS, CSS3.
