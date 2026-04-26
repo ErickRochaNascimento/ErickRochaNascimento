@@ -14,6 +14,7 @@ Sou **desenvolvedor em formação** com foco em **Análise e Desenvolvimento de 
 -   🌐 Localização: **Salvador, Bahia — Brasil**
 -   ✉️ Contato: <erickrochaluciano@gmail.com>
 -   🔗 [LinkedIn](https://www.linkedin.com/in/erickrochanascimento)
+-   🔗 [Portfolio](https://ericknascimento.vercel.app/)
 
 ------------------------------------------------------------------------
 
