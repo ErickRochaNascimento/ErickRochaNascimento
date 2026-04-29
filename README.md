@@ -9,7 +9,7 @@ Sou **desenvolvedor em formação** com foco em **Análise e Desenvolvimento de 
 -   🎓 **Formação em andamento**
     -   CST em **Análise e Desenvolvimento de Sistemas** — IFBA
         (2025--2028)
-    -   Cursos profissionalizantes: **Back-End com JavaScript NODE.JS (IFBA)** e  **Back-End com C# (SENAI CIMATEC - FORD)**
+    -   Cursos profissionalizantes: **Back-End com C# (SENAI CIMATEC - FORD)**
 -   🛠️ Técnico em **Redes de Computadores (SENAI Bahia)**
 -   🌐 Localização: **Salvador, Bahia — Brasil**
 -   ✉️ Contato: <erickrochaluciano@gmail.com>
@@ -20,7 +20,8 @@ Sou **desenvolvedor em formação** com foco em **Análise e Desenvolvimento de 
 
 ## 📚 Formação Complementar
 
--  **Front-End HTML CSS JAVASCRIPT ANGULAR (SENAI CIMATEC - FORD)**
+-  **Front-End HTML CSS JAVASCRIPT TYPESCRIPT ANGULAR (SENAI CIMATEC - FORD)**
+-  **Back-End com JavaScript NODE.JS (IFBA)**  
 
 ------------------------------------------------------------------------
 
